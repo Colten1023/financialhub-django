@@ -1,9 +1,9 @@
 # FinancialHub
-![image](https://github.com/isabellaaquino/financialhub/assets/76221367/7b7dc6e9-4279-4fff-9e19-04b4394252e9)
+![image](https://github.com/Colten1023/financialhub-django/assets/76221367/7b7dc6e9-4279-4fff-9e19-04b4394252e9)
 
 ## Overview 📝
 
-This repository contains a finance management web application built with **Django** and **React.js**. The main goal of this project is to ~~make myself a finance tracker because i'm terrible at saving money~~ provide a user-friendly solution for managing your personal finances, tracking transactions, and gaining insights into your earnings and expenses.
+This repository contains a finance management web application built with **Django** and **React.js**. The main goal of this project is to provide a user-friendly solution for managing your personal finances, tracking transactions, and gaining insights into your earnings and expenses.
 
 While we don't host this on a cloud solution, you can try this app following the steps described [here](#installation-%EF%B8%8F).
 
@@ -38,7 +38,7 @@ To run the application locally, please follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/isabellaaquino/financialhub.git
+   git clone https://github.com/Colten1023/financialhub-django.git
    ```
 
 2. Install dependencies for the Django backend:
@@ -71,7 +71,7 @@ To run the application locally, please follow these steps:
 
 ## About the project 🧑‍🎓
 
-Although this project is a work in progress (and will be for a long time), our kanban board and issues are public, and can be accessed [here](https://github.com/users/isabellaaquino/projects/1/views/1). We would love to know your ideas, suggestions and reviews!
+Although this project is a work in progress (and will be for a long time), our kanban board and issues are public. We would love to know your ideas, suggestions and reviews!
 
 Another thing worth being said is that we are both undergrad compsci students, and we try to allocate time to work on this whenever we can. Along with that, we also want to add that we have an initial UML modelling made on Visual Paradigm that is being made for studying purposes and can be accessed through `backend/modelling`.
 
@@ -99,4 +99,4 @@ This project will be soon licensed under the MIT License. You are free to use, m
 
 ## Authors ✍️
 
-This project is thought, planned and implemented by [Isabella Aquino](https://github.com/isabellaaquino) (backend heavy) & [Pedro Dell'Olio](https://github.com/pedrodellolio) (frontend heavy)
+This project is thought, planned and implemented by [Colten Brown](https://github.com/Colten1023)
