@@ -1,5 +1,4 @@
 # FinancialHub
-![image](https://github.com/Colten1023/financialhub-django/assets/76221367/7b7dc6e9-4279-4fff-9e19-04b4394252e9)
 
 ## Overview 📝
 
